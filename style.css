@@ -1,0 +1,105 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.navbar{
+    /* navbar change background color so use !important then change navbar background color */
+    background-color:#F0FFF0 !important;
+    
+}
+.logo-width{
+    width: 150px;
+    margin-left: 70px;
+}
+.sign_get{
+    padding: 9px 25px;
+    border-radius: 20px;
+    color: #F0FFF0;
+}
+.mrg{
+    margin-right: 70px;
+}
+.navbar-light .navbar-nav .nav-item{
+    
+    margin: 0 15px;
+}
+.container{
+    width: 1440px;
+    height: 576px;
+    background-color: #F0FFF0;
+    margin-bottom: 40px;
+}
+.carousel-item{
+    padding: 40px 70px;   /* opore niche 40px, side 70px */
+}
+.carousel-item h6{
+    color: red;
+}
+.carousel-item p{
+    line-height: 40px;
+}
+span{
+    color: #218573;
+}
+.main{
+    margin-bottom: 60px;
+}
+ .h1{
+    background-color: #218573;
+    width:175px ;  
+    height: 175px;
+    margin: 0 130px;
+    padding: 75px ;
+    margin-right: 50px;
+    
+}
+
+.marg{
+    margin-bottom: 60px;
+}
+.row-cols-md-3{
+    margin: 0 130px;
+}
+
+.icon{
+    width: 25px;
+    
+}
+ .lot{
+    float: right;
+    
+}
+.card-ima-top{
+    width: 90%;
+}
+.man{
+    width: 75px;
+    padding-right: 10px;
+}
+.foot{
+    background-color: cadetblue;
+    width: 80%;
+    height: 250px;
+    margin-left: 150px;
+    
+}
+.let{
+    padding-top: 30px;
+    margin-left: 40px;
+    
+}
+.let2{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.copy{
+    padding-top: 20px;
+}
+
+
+
+
+
+
